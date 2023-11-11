@@ -3,7 +3,7 @@
 ### Installation
 
 ```
-go install github.com/0xdln1/tld@latest
+git clone https://github.com/0xdln1/tld ; cd tld; go build .;sudo mv tld /usr/local/bin
 ```
 
 
